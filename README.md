@@ -8,7 +8,9 @@ Graphics design became interesting to me as a lot of Businesses started wanting 
 
 I'm Currently studying a C3 in Graphics Design @ MI College
 
-I'm Currently Learning TailwindCSS, Django deployment
+I'm Currently Learning TailwindCSS, Django, Kotlin
+
+I'm Working on the website for RARE'JJE PVT LTD
 
 My Links:
 - [Behance](https://www.behance.net/fauzaanu)
