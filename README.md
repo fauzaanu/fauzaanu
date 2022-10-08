@@ -1,5 +1,8 @@
 ### Hello World 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzaanu&layout=compact)](https://youtu.be/oHg5SJYRHA0)
+
+
 I'm Fauzaan, a Graphics Designer & a Programmer.
 
 Almost 7 years ago I started making trading tools for the Metatrader 4 platform. (Some of my tools: ChartFlix, AFP, Stalk-Board, etc..)
