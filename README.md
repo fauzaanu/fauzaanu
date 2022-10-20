@@ -11,8 +11,6 @@ Chasing from this intial exposure into forex, I Completed a Diploma in Islamic F
 
 Graphics design became interesting to me as a lot of Businesses started wanting to go online after the Pandemic
 
-I've completed almost all the certifications of YES I'm a Designer founded by Martin - A great recommendation for anyone looking to become a Designer Online!
-
 I'm Currently studying a C3 in Graphics Design @ MI College which is stripend based program funded by JobCenter.mv
 
 I'm Currently Learning TailwindCSS, Django, Kotlin
