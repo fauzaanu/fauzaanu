@@ -1,21 +1,19 @@
 ### Hello World 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzaanu&layout=compact)](https://youtu.be/oHg5SJYRHA0)
-
-
-I'm Fauzaan, A Graphics Designer & A Programmer.
+I'm Fauzaan, A Graphics Designer & A Programmer
 
 Almost 7 years ago I started making trading tools for the Metatrader 4 platform. (Some of my tools: ChartFlix, AFP, Stalk-Board, etc..)
 
-Chasing from this intial exposure into forex, I Completed a Diploma in Islamic Finance, & came real close to completing a Degree as well
+Chasing from this intial exposure into Forex, I Completed a Diploma in Islamic Finance, & came real close to completing a Degree as well
 
 Graphics design became interesting to me as a lot of Businesses started wanting to go online after the Pandemic
 
-I'm Currently studying a C3 in Graphics Design @ MI College which is stripend based program funded by JobCenter.mv
+Currently studying a C3 in Graphics Design
 
-I'm Currently Learning TailwindCSS, Django, Kotlin
+Currently Learning TailwindCSS, Django, Kotlin, Flutter
 
-I'm Working on the website for RARE'JJE PVT LTD
+Working on the website for RARE'JJE PVT LTD
+
 
 My Links:
 - [Behance](https://www.behance.net/fauzaanu)
