@@ -7,9 +7,13 @@ I'm Fauzaan, a Graphics Designer & a Programmer.
 
 Almost 7 years ago I started making trading tools for the Metatrader 4 platform. (Some of my tools: ChartFlix, AFP, Stalk-Board, etc..)
 
+Chasing from this intial exposure into forex, I Completed a Diploma in Islamic Finance, & came real close to completing a Degree as well
+
 Graphics design became interesting to me as a lot of Businesses started wanting to go online after the Pandemic
 
-I'm Currently studying a C3 in Graphics Design @ MI College
+I've completed almost all the certifications of YES I'm a Designer founded by Martin - A great recommendation for anyone looking to become a Designer Online!
+
+I'm Currently studying a C3 in Graphics Design @ MI College which is stripend based program funded by JobCenter.mv
 
 I'm Currently Learning TailwindCSS, Django, Kotlin
 
