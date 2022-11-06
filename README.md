@@ -10,7 +10,7 @@ Graphics design became interesting to me as a lot of Businesses started wanting 
 
 Currently studying a C3 in Graphics Design
 
-Currently Learning TailwindCSS, Django, Kotlin, Flutter
+Currently Learning React, Django, Kotlin, Flutter
 
 Working on the website for RARE'JJE PVT LTD
 
