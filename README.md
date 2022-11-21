@@ -1,13 +1,13 @@
 ### Hello World 👋
 
 
-## whoami?
+## WHO AM I?
 I'm Fauzaan, I'm into design and code.
 
-## My Focus
+## MY FOCUS
 I work on telegram bots, Websites, Apps, python scripts, Social Media Automation and webautomation in general, However my focus is on solving the problem rather than focusing on a specefic stack or a technology. Because I'm a firm believer that the end result is what matters. Not the tools you use it to achieve it. (unless what you achieve is not actually solving the problem)
 
-## How I got into coding
+## HOW IT STARTED
 I had my basics while I was in primary school. (7th grade) from w3schools and codeacademy (HTML, CSS, JS) 
 
 After a while I got into Forex through a good friend and helped his ideas be converted into automated trading bots and tools. As I already had the basics of programming concepts from JS, it was easy to pickup C# and MQL (MQL is a language based on C++ for Metatrader Platform)
