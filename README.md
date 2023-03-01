@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fauzaan</h1>
 <h3 align="center">I'm into both design and code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzaanu&label=Profile%20views&color=0e75b6&style=flat" alt="fauzaanu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fauzaanu" alt="fauzaanu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/fauzaanu" target="blank"><img src="https://img.shields.io/twitter/follow/fauzaanu?logo=twitter&style=for-the-badge" alt="fauzaanu" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fauzaanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fauzaanu" height="30" width="40" /></a>
