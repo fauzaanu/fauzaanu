@@ -1,5 +1,49 @@
 <h1 align="center">Hi 👋, I'm Fauzaan</h1>
-<h3 align="center">I'm into both design and code</h3>
+
+I create stuff using code and design.
+
+I am based in Maldives. Here is a super short overview of what I have been doing.
+
+### Metatrader Programming
+
+I have close to a decade of experience in developing tools, Indicators and Expert Advisors for the Metatrader Platform
+
+🔗 [My Customer Reviews On Forex Peace Army](https://www.forexpeacearmy.com/forex-reviews/15063/fauzaanu-reviews#traders-reviews)
+
+🔗 [Gumroad Shop - Most of my Public Trading Tools are here](https://shop.fauzaanu.com)
+
+### Graphics Design
+
+My design work has been the focus of my career ever since COVID boosted the need for digital businesses.
+
+🔗 [Design Portfolio On Behance](https://behance.net/fauzaanu)
+
+🔗 [Check Fauzaanu profile on DesignRush](https://www.designrush.com/agency/profile/fauzaanu)
+
+### Coding
+
+I build apps, websites, scripts, telegram bots, web scraping solutions and more. I work with multiple coding languages and even sometimes mix them.
+
+### In Short
+
+I am not the average die hard to one stack sort of programmer or even designer.
+
+I will use any and every tool that is applicable to solve the problem I am hired to solve. If that means me opening up Powerpoint to make a graphics design work, I will do that too.
+
+I code in Python, php, C#, JS and many more languages. I work with frameworks such as Django, Wordpress and I am slowly picking up Laravel at the moment.
+
+As I said, not tunnel visioned by a stack, but focusing on solving the problem in the best way I possibly can.
+
+🔗 [Medium Blog](https://medium.com/@fauzaanu)
+
+🔗 [Github Profile](https://github.com/fauzaanu)
+
+### Hire Me!
+
+If you need something done that fits into my skillset you can contact me through [Telegram](https://t.me/fauzaanu) or [Twitter](https://twitter.com/fauzaanu)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,6 +58,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzaanu&show_icons=true&locale=en&layout=compact" alt="fauzaanu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauzaanu&show_icons=true&locale=en" alt="fauzaanu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fauzaanu&" alt="fauzaanu" /></p>
