@@ -34,7 +34,7 @@ I code in Python, php, C#, JS and many more languages. I work with frameworks su
 
 Unlike many others who focus on a stack, I focus on solving the problem with the best stack possible.
 
-🔗 [Medium Blog](https://medium.com/@fauzaanu)
+🔗 [LinkedIn](https://linkedin.com/in/fauzaanu)
 
 🔗 [Github Profile](https://github.com/fauzaanu)
 
