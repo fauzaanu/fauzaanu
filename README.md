@@ -14,7 +14,7 @@ I have close to a decade of experience in developing tools, Indicators and Exper
 
 ### Graphics Design
 
-My design work has been the focus of my career ever since COVID boosted the need for digital businesses.
+I do a lot of design work for businesses ever since covid. I am proficient in the Adobe Suite and you can check my works from behance.
 
 🔗 [Design Portfolio On Behance](https://behance.net/fauzaanu)
 
