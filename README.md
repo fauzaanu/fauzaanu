@@ -26,8 +26,6 @@ I build apps, websites, scripts, telegram bots, web scraping solutions and more.
 
 ### In Short
 
-I am not the average die hard to one stack sort of programmer or even designer.
-
 I will use any and every tool that is applicable to solve the problem I am hired to solve.
 
 I code in Python, php, C#, JS and many more languages. I work with frameworks such as Django, Wordpress and I am slowly picking up Laravel at the moment.
