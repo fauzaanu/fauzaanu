@@ -28,11 +28,11 @@ I build apps, websites, scripts, telegram bots, web scraping solutions and more.
 
 I am not the average die hard to one stack sort of programmer or even designer.
 
-I will use any and every tool that is applicable to solve the problem I am hired to solve. If that means me opening up Powerpoint to make a graphics design work, I will do that too.
+I will use any and every tool that is applicable to solve the problem I am hired to solve.
 
 I code in Python, php, C#, JS and many more languages. I work with frameworks such as Django, Wordpress and I am slowly picking up Laravel at the moment.
 
-As I said, not tunnel visioned by a stack, but focusing on solving the problem in the best way I possibly can.
+Unlike many others who focus on a stack, I focus on solving the problem with the best stack possible.
 
 🔗 [Medium Blog](https://medium.com/@fauzaanu)
 
