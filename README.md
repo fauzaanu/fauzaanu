@@ -50,6 +50,5 @@ If you need something done that fits into my skillset you can contact me through
 <a href="https://twitter.com/fauzaanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fauzaanu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fauzaanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fauzaanu" height="30" width="40" /></a>
 <a href="https://www.behance.net/fauzaanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="fauzaanu" height="30" width="40" /></a>
-<a href="https://medium.com/@fauzaanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fauzaanu" height="30" width="40" /></a>
 </p>
 
