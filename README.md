@@ -1,3 +1,8 @@
-> “In your own little world,” they say.
+<p align="center">
+  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" style="border-radius:50%;"/>
+</p>
 
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h3 align="center">"In your own little world"</h1>
+<p align="center">
+  <i><u>They Say</u></i>
+</p>
